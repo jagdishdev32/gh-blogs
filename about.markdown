@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+These posts are personal blogs / cheatsheets / writeup's by **Jagish Dev aka Jatin**
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+For topic's related to
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- web development,
+- Web security,
+- Linux administration,
+- Dev-ops,
+- CTF challenges and
+- much more
 
+# About Jagdish
 
-[jekyll-organization]: https://github.com/jekyll
+Jagdish is _Self-Taught Programmer_ who is mainly focused towards topic's related to **Cyber Security** & **Web Development**, with hunger to learn more.
