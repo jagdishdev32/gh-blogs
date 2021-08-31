@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+icon: fas fa-info
+order: 4
 ---
 
 These posts are personal blogs / cheatsheets / writeup's by **Jagish Dev aka Jatin**
